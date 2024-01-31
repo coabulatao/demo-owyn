@@ -1,3 +1,3 @@
 # Demo
 
-This is just a toturial
+This is just a toturial.
